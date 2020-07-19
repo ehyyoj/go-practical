@@ -3,7 +3,7 @@ package calculate_test
 import (
 	"testing"
 
-	"github.com/go-practical/calculate"
+	"github.com/ehyyoj/go-practical/testing-package/calculate"
 )
 
 func TestAdd(t *testing.T) {
